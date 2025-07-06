@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GGSPPhgaG0ye_n6reNdHaw" Reference="DS2MS0UofEWbsD0bKkPXxg/Q-WIUTZs7E6Z63ZWq7uR6w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="392f1686-92c1-473a-9412-7d2c7fbcbd29" CvElementArea="1053, 441, 373, 52" CvType="InputBox" DesignTimeRectangle="1058, 435, 361, 57" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='5lNFs' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="81687b48-7648-424d-9dc2-daffc55f3547" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="392f1686-92c1-473a-9412-7d2c7fbcbd29" CvTextArea="1057, 414, 113, 13" CvTextArgument="Phone Number" CvType="Text" DesignTimeRectangle="1058, 411, 111, 21" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Phone Number' /&gt;" Guid="68e92a05-f3a3-43b3-91ef-b5cd946bf45a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="82bc657726ff1f1972a8c05bbcf93f43.png" xmlns="">0Rq9c6iDS_0uEZVOP-l-qnA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
